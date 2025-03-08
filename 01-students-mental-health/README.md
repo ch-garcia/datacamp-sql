@@ -1,6 +1,6 @@
 # Analyzing Student's Mental Health  
 
-![Student Mental Health](https://github.com/ch-garcia/datacamp-sql/01-students-mental-health/blob/main/mentalhealth.jpg)
+![Student Mental Health](https://github.com/ch-garcia/datacamp-sql/blob/88b5fe18ff43c1c5ab4a973cdd86b35bb39e8540/01-students-mental-health/mentalhealth.jpg)
 
 ## Project Overview
 
