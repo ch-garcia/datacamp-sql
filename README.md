@@ -4,8 +4,8 @@
 
 Each folder in this repository includes:
 
-- **Project Folders**: Each folder contains a specific SQL project with its related questions and solutions.
-- **Jupyter Notebooks**: Notebooks detailing the SQL queries and their explanations for each exercise.
+- A specific `SQL project` with its related questions and solutions.
+- `Jupyter Notebooks` detailing the SQL queries and their explanations for each exercise.
 
 ## Note
 
