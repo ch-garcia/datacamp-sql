@@ -11,4 +11,4 @@ Each folder in this repository includes:
 
 This repository is for educational and personal learning purposes only. All content and materials in this repository are based on the curriculum provided by **DataCamp**, and their intellectual property rights apply. 
 
-You can learn more about DataCamp and their courses on their website: [DataCamp](https://www.datacamp.com).
+You can learn more about DataCamp and their courses on their [website](https://www.datacamp.com).
