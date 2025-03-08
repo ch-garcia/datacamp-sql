@@ -2,8 +2,6 @@
 
 ## Contents
 
-This repository contains all of my SQL work completed as part of the **SQL Skill Track** on **DataCamp**.
-
 Each folder in this repository includes:
 
 - **Project Folders**: Each folder contains a specific SQL project with its related questions and solutions.
