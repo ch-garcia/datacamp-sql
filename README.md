@@ -1,5 +1,7 @@
 # DataCamp SQL Skill Track
 
+This repository contains my work and solutions from the DataCamp SQL Skill Track. I created this collection to document my learning journey, track my progress, and share insights with others who might be on a similar path.
+
 ## Contents
 
 Each folder in this repository includes:
