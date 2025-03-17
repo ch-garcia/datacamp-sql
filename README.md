@@ -4,10 +4,9 @@ This repository contains my work and solutions from the DataCamp SQL Skill Track
 
 ## Contents
 
-Each folder in this repository includes:
+Each folder in this repository includes a specific SQL project with its related questions and my solutions.
 
-- A specific `SQL project` with its related questions and solutions.
-- `Jupyter Notebooks` detailing the SQL queries and their explanations for each exercise.
+Whenever possible, I included the datasets.
 
 ## Note
 
